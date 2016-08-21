@@ -7,6 +7,8 @@
 #'
 #' @return numeric
 #' @export
+#' @examples
+#' check_me(1L)
 check_me <- function(x) {
   y <- x + 1
   browser()

@@ -18,4 +18,7 @@ Browser check
 \details{
 This is a browser check
 }
+\examples{
+check_me(1L)
+}
 

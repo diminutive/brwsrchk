@@ -9,9 +9,9 @@ Package to demonstrate whether `browser()` calls can pass certain checks.
 
 Checks to check:
 
--   R CMD check
--   R CMD check --as-cran
--   travis-ci
--   appveyor
--   winbuilder
+-   R CMD check - OK
+-   R CMD check --as-cran - OK
+-   travis-ci - OK
+-   appveyor - OK
+-   winbuilder - OK
 -   ...
