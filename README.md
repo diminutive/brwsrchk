@@ -15,3 +15,10 @@ Checks to check:
 -   appveyor - OK
 -   winbuilder - OK
 -   ...
+
+Conclusion
+----------
+
+Don't do this, if you leave `browser()` calls in your package a user might trip over them.
+
+TBD: identify other candidates, i.e. `debug`, `fix` and get them into devtools checks?
